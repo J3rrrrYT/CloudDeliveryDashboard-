@@ -1,0 +1,5 @@
+issue_id,project_id,severity,category,status,opened_date,closed_date
+1,1,HIgh,Data,Open,02/02/2025,
+2,1,Medium,Access,Closed,25/01/2025,28/01/2025
+3,2,High,Infra,In Progress,10/02/2025,
+4,3,Low,Process,Closed,22/01/2025,22/01/2025
