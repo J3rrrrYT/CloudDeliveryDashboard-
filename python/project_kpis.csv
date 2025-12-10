@@ -1,0 +1,4 @@
+project_id,project_name,customer_name,start_date,end_date,status,total_issues,high_severity_issues,risk_score
+1,Cloud Migration Wave 1,Acme Corp,10/01/2025,20/03/2025,Active,2,0,0
+2,Data Platform Setup,BlueBay Ltd,01/02/2025,15/05/2025,At Risk,1,1,5
+3,CRM Modernization,SunTech,20/02/2025,20/04/2025,Completed,1,0,0
