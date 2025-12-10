@@ -1,9 +1,0 @@
-Loads projects.csv and issues.csv
-
-Calculates:
-
-total_issues per project
-
-high_severity_issues per project
-
-Builds a simple risk_score, for example:
